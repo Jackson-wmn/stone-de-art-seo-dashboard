@@ -182,6 +182,24 @@ for _, title, _, sev, fix, effort in quick_wins[:6]:
         <span style="font-size:11px;color:#888;flex-shrink:0;white-space:nowrap;">{effort}</span>
     </div>'''
 
+# ── Domain expiry alert (only shown when SE Ranking reports a real expiry date) ──
+ser_issue_cards_html = "".join(f'''<div style="background:#f8fafc;border-radius:8px;padding:10px;border-left:3px solid {'#ef4444' if v['severity']=='严重' else '#f59e0b' if v['severity']=='高' else '#6b7280'};">
+      <div style="font-size:11px;font-weight:700;color:#1a1a1a;">{v['label']}</div>
+      <div style="font-size:20px;font-weight:800;color:{'#ef4444' if v['severity']=='严重' else '#f59e0b' if v['severity']=='高' else '#6b7280'};margin:2px 0;">{v['count']}</div>
+      <div style="font-size:10px;color:#888;">{v['description'][:60]}...</div>
+    </div>''' for v in ser.get("issues",{}).values())
+
+domain_alert_html = ''
+if ser.get('domain_expiry') and ser.get('domain_expiry') != 'N/A':
+    domain_alert_html = f'''<div style="background:#fef2f2;border:2px solid #ef4444;border-radius:12px;padding:14px 20px;margin-bottom:14px;display:flex;align-items:center;gap:14px;">
+  <span style="font-size:28px;">🚨</span>
+  <div>
+    <div style="font-size:14px;font-weight:800;color:#dc2626;">域名即将到期！{SITE_URL} 将于 {ser.get("domain_expiry")} 到期</div>
+    <div style="font-size:12px;color:#ef4444;margin-top:3px;">若未续费，网站将完全下线，GSC 排名清零，一切 SEO 工作归零。</div>
+    <div style="font-size:12px;color:#991b1b;margin-top:4px;">⚡ 立即行动：登入域名注册商 → 续费 {SITE_URL}</div>
+  </div>
+</div>'''
+
 html = f'''<!DOCTYPE html>
 <html lang="zh">
 <head>
@@ -218,15 +236,8 @@ html = f'''<!DOCTYPE html>
   </div>
 </div>
 
-<!-- CRITICAL: Domain Expiry Alert -->
-<div style="background:#fef2f2;border:2px solid #ef4444;border-radius:12px;padding:14px 20px;margin-bottom:14px;display:flex;align-items:center;gap:14px;">
-  <span style="font-size:28px;">🚨</span>
-  <div>
-    <div style="font-size:14px;font-weight:800;color:#dc2626;">域名即将到期！{SITE_URL} 将于 {ser.get('domain_expiry','?')} 到期</div>
-    <div style="font-size:12px;color:#ef4444;margin-top:3px;">距今仅约 <strong>7 周</strong>。若未续费，网站将完全下线，GSC 排名清零，一切 SEO 工作归零。</div>
-    <div style="font-size:12px;color:#991b1b;margin-top:4px;">⚡ 立即行动：登入域名注册商 → 续费 {SITE_URL}</div>
-  </div>
-</div>
+<!-- CRITICAL: Domain Expiry Alert (only shown when SE Ranking reports a real expiry date) -->
+{domain_alert_html}
 
 <!-- Progress Bar -->
 <div class="card" style="padding:16px 20px;">
@@ -308,7 +319,7 @@ html = f'''<!DOCTYPE html>
 
 <!-- SE Ranking Section -->
 <div class="card">
-  <h2>📊 SE Ranking 网站健康报告（2026-06-23 手动导入）</h2>
+  <h2>📊 SE Ranking 网站健康报告（{ser.get('updated_at','?')} · {ser.get('source','手动导入')}）</h2>
   <div class="g4" style="margin-bottom:16px;">
     <div style="text-align:center;background:#fef9c3;border-radius:8px;padding:12px;">
       <div style="font-size:28px;font-weight:800;color:#f59e0b;">{ser.get("health_score",0)}<span style="font-size:14px;">/100</span></div>
@@ -329,11 +340,7 @@ html = f'''<!DOCTYPE html>
   </div>
   <div style="font-size:12px;color:#888;margin-bottom:12px;">共 {ser.get("total_issues",0)} 个问题 · 爬取 {ser.get("pages_crawled",0)} 个页面 · 发现 {ser.get("urls_found",0)} 个 URL</div>
   <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;">
-    {"".join(f'''<div style="background:#f8fafc;border-radius:8px;padding:10px;border-left:3px solid {'#ef4444' if v['severity']=='严重' else '#f59e0b' if v['severity']=='高' else '#6b7280'};">
-      <div style="font-size:11px;font-weight:700;color:#1a1a1a;">{v['label']}</div>
-      <div style="font-size:20px;font-weight:800;color:{'#ef4444' if v['severity']=='严重' else '#f59e0b' if v['severity']=='高' else '#6b7280'};margin:2px 0;">{v['count']}</div>
-      <div style="font-size:10px;color:#888;">{v['description'][:60]}...</div>
-    </div>''' for v in ser.get("issues",{}).values())}
+    {ser_issue_cards_html}
   </div>
 </div>
 

@@ -1,12 +1,90 @@
 {
-  "updated_at": "",
-  "source": "",
-  "health_score": 0,
-  "total_issues": 0,
-  "errors": 0,
-  "warnings": 0,
-  "notices": 0,
-  "pages_crawled": 0,
+  "updated_at": "2026-07-16",
+  "source": "SE Ranking API (via MCP)",
+  "audit_id": 700004212,
+  "health_score": 81,
+  "total_issues": 716,
+  "errors": 11,
+  "warnings": 194,
+  "notices": 511,
+  "pages_crawled": 135,
   "domain_expiry": "",
-  "issues": {}
+  "domain_trust": 0,
+  "backlinks": "76",
+  "referring_domains": "50",
+  "google_index": "0",
+  "issues": {
+    "broken_4xx": {
+      "count": 0,
+      "label": "4XX 断链",
+      "severity": "严重",
+      "description": "0个页面返回404错误",
+      "effort": "1小时",
+      "fix": "找到含 _wp_link_placeholder 的博客文章 → 修复或删除断链"
+    },
+    "redirects_3xx": {
+      "count": 6,
+      "label": "3XX 重定向链",
+      "severity": "中",
+      "description": "6个页面有重定向",
+      "effort": "30分钟",
+      "fix": "更新内部链接直接指向最终URL"
+    },
+    "duplicate_titles": {
+      "count": 11,
+      "label": "重复页面标题",
+      "severity": "高",
+      "description": "11个页面标题重复",
+      "effort": "2小时",
+      "fix": "逐页检查并改写重复的 meta title"
+    },
+    "duplicate_descriptions": {
+      "count": 2,
+      "label": "重复 Meta Description",
+      "severity": "高",
+      "description": "2个页面描述重复",
+      "effort": "2小时",
+      "fix": "逐页检查并改写重复的 meta description"
+    },
+    "duplicate_h1": {
+      "count": 0,
+      "label": "重复 H1 标签",
+      "severity": "中",
+      "description": "0个页面 H1 重复",
+      "effort": "1小时",
+      "fix": "检查并改写重复的 H1"
+    },
+    "same_title_h1": {
+      "count": 41,
+      "label": "Title 与 H1 完全相同",
+      "severity": "低",
+      "description": "41个页面 Title 和 H1 完全一样，浪费优化空间",
+      "effort": "持续",
+      "fix": "将 Title 改为包含关键词的完整句子，H1 保持简短"
+    },
+    "slow_pages": {
+      "count": 19,
+      "label": "页面加载速度慢",
+      "severity": "高",
+      "description": "19个页面加载速度慢",
+      "effort": "持续",
+      "fix": "压缩图片、启用缓存、精简 JS/CSS"
+    },
+    "internal_links_3xx": {
+      "count": 111,
+      "label": "内部链接指向重定向页",
+      "severity": "中",
+      "description": "111个内部链接指向3XX重定向页面",
+      "effort": "30分钟",
+      "fix": "更新内部链接直接指向最终目标URL"
+    },
+    "sitemap_missing": {
+      "count": 0,
+      "label": "XML Sitemap 缺失",
+      "severity": "严重",
+      "description": "XML sitemap 状态正常",
+      "effort": "10分钟",
+      "fix": "已存在，保持提交到 GSC"
+    }
+  }
 }
