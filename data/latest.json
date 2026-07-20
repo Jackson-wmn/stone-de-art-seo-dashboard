@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T11:06:38.660219Z",
+  "generated_at": "2026-07-20T11:29:15.678273Z",
   "site": "https://stonedeart.com.my",
   "period_days": 90,
   "scores": {
@@ -262,27 +262,27 @@
     ]
   },
   "ga4": {
-    "total_sessions": 10162,
+    "total_sessions": 10167,
     "channels": [
       {
         "channel": "Paid Search",
-        "sessions": 6045,
-        "users": 5275,
+        "sessions": 6048,
+        "users": 5280,
         "bounce": 34.7,
         "duration": 142
       },
       {
         "channel": "Organic Search",
-        "sessions": 2407,
-        "users": 1094,
+        "sessions": 2408,
+        "users": 1095,
         "bounce": 55.6,
         "duration": 230
       },
       {
         "channel": "Direct",
-        "sessions": 1126,
+        "sessions": 1127,
         "users": 898,
-        "bounce": 73.1,
+        "bounce": 73.0,
         "duration": 66
       },
       {
@@ -331,13 +331,13 @@
     "top_pages": [
       {
         "page": "/",
-        "sessions": 6871,
+        "sessions": 6873,
         "bounce": 36.0,
         "duration": 99
       },
       {
         "page": "/collection/",
-        "sessions": 1533,
+        "sessions": 1535,
         "bounce": 9.1,
         "duration": 77
       },
@@ -349,9 +349,9 @@
       },
       {
         "page": "/quartzite/",
-        "sessions": 880,
+        "sessions": 881,
         "bounce": 22.7,
-        "duration": 118
+        "duration": 119
       },
       {
         "page": "/kitchen/",
@@ -361,13 +361,13 @@
       },
       {
         "page": "/travertine/",
-        "sessions": 707,
-        "bounce": 28.6,
+        "sessions": 708,
+        "bounce": 28.7,
         "duration": 75
       },
       {
         "page": "/granite/",
-        "sessions": 689,
+        "sessions": 690,
         "bounce": 14.8,
         "duration": 74
       },
@@ -385,7 +385,7 @@
       },
       {
         "page": "/signature-works/",
-        "sessions": 431,
+        "sessions": 432,
         "bounce": 7.9,
         "duration": 74
       }
