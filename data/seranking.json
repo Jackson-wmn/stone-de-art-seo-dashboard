@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16",
-  "source": "SE Ranking API (via MCP)",
+  "updated_at": "2026-07-20",
+  "source": "SE Ranking API (自动)",
   "audit_id": 700004212,
   "health_score": 81,
   "total_issues": 716,
@@ -8,7 +8,7 @@
   "warnings": 194,
   "notices": 511,
   "pages_crawled": 135,
-  "domain_expiry": "",
+  "domain_expiry": "N/A",
   "domain_trust": 0,
   "backlinks": "76",
   "referring_domains": "50",
@@ -34,9 +34,9 @@
       "count": 11,
       "label": "重复页面标题",
       "severity": "高",
-      "description": "11个页面标题重复",
+      "description": "11个页面标题重复（EN/ZH版本相同）",
       "effort": "2小时",
-      "fix": "逐页检查并改写重复的 meta title"
+      "fix": "TranslatePress → 逐页翻译 meta title"
     },
     "duplicate_descriptions": {
       "count": 2,
@@ -44,15 +44,15 @@
       "severity": "高",
       "description": "2个页面描述重复",
       "effort": "2小时",
-      "fix": "逐页检查并改写重复的 meta description"
+      "fix": "TranslatePress → 逐页翻译 meta description"
     },
     "duplicate_h1": {
       "count": 0,
       "label": "重复 H1 标签",
       "severity": "中",
-      "description": "0个页面 H1 重复",
+      "description": "0个页面 H1 与中文版相同",
       "effort": "1小时",
-      "fix": "检查并改写重复的 H1"
+      "fix": "TranslatePress → 翻译各页面 H1 内容"
     },
     "same_title_h1": {
       "count": 41,
@@ -68,7 +68,7 @@
       "severity": "高",
       "description": "19个页面加载速度慢",
       "effort": "持续",
-      "fix": "压缩图片、启用缓存、精简 JS/CSS"
+      "fix": "Elementor → Improved Asset Loading；Breeze → JS defer + CSS 合并"
     },
     "internal_links_3xx": {
       "count": 111,
@@ -82,9 +82,9 @@
       "count": 0,
       "label": "XML Sitemap 缺失",
       "severity": "严重",
-      "description": "XML sitemap 状态正常",
+      "description": "XML sitemap 缺失，影响 Google 爬取效率",
       "effort": "10分钟",
-      "fix": "已存在，保持提交到 GSC"
+      "fix": "Rank Math → Sitemap → 开启并提交到 GSC"
     }
   }
 }
