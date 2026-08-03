@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-07-27",
+  "updated_at": "2026-08-03",
   "source": "SE Ranking API (自动)",
   "audit_id": 700004212,
-  "health_score": 81,
-  "total_issues": 716,
-  "errors": 11,
-  "warnings": 194,
-  "notices": 511,
-  "pages_crawled": 135,
+  "health_score": 77,
+  "total_issues": 838,
+  "errors": 12,
+  "warnings": 300,
+  "notices": 526,
+  "pages_crawled": 157,
   "domain_expiry": "N/A",
-  "domain_trust": 0,
-  "backlinks": "76",
-  "referring_domains": "50",
+  "domain_trust": 20,
+  "backlinks": "78",
+  "referring_domains": "51",
   "google_index": "0",
   "issues": {
     "broken_4xx": {
@@ -23,18 +23,18 @@
       "fix": "找到含 _wp_link_placeholder 的博客文章 → 修复或删除断链"
     },
     "redirects_3xx": {
-      "count": 6,
+      "count": 19,
       "label": "3XX 重定向链",
       "severity": "中",
-      "description": "6个页面有重定向",
+      "description": "19个页面有重定向",
       "effort": "30分钟",
       "fix": "更新内部链接直接指向最终URL"
     },
     "duplicate_titles": {
-      "count": 11,
+      "count": 12,
       "label": "重复页面标题",
       "severity": "高",
-      "description": "11个页面标题重复（EN/ZH版本相同）",
+      "description": "12个页面标题重复（EN/ZH版本相同）",
       "effort": "2小时",
       "fix": "TranslatePress → 逐页翻译 meta title"
     },
@@ -55,26 +55,26 @@
       "fix": "TranslatePress → 翻译各页面 H1 内容"
     },
     "same_title_h1": {
-      "count": 41,
+      "count": 24,
       "label": "Title 与 H1 完全相同",
       "severity": "低",
-      "description": "41个页面 Title 和 H1 完全一样，浪费优化空间",
+      "description": "24个页面 Title 和 H1 完全一样，浪费优化空间",
       "effort": "持续",
       "fix": "将 Title 改为包含关键词的完整句子，H1 保持简短"
     },
     "slow_pages": {
-      "count": 19,
+      "count": 90,
       "label": "页面加载速度慢",
       "severity": "高",
-      "description": "19个页面加载速度慢",
+      "description": "90个页面加载速度慢",
       "effort": "持续",
       "fix": "Elementor → Improved Asset Loading；Breeze → JS defer + CSS 合并"
     },
     "internal_links_3xx": {
-      "count": 111,
+      "count": 120,
       "label": "内部链接指向重定向页",
       "severity": "中",
-      "description": "111个内部链接指向3XX重定向页面",
+      "description": "120个内部链接指向3XX重定向页面",
       "effort": "30分钟",
       "fix": "更新内部链接直接指向最终目标URL"
     },
