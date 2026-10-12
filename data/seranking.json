@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-12",
   "source": "SE Ranking API (自动)",
   "audit_id": 700004212,
   "health_score": 80,
-  "total_issues": 901,
-  "errors": 12,
-  "warnings": 338,
-  "notices": 551,
-  "pages_crawled": 166,
+  "total_issues": 1054,
+  "errors": 13,
+  "warnings": 355,
+  "notices": 686,
+  "pages_crawled": 171,
   "domain_expiry": "N/A",
-  "domain_trust": 15,
-  "backlinks": "65",
-  "referring_domains": "49",
+  "domain_trust": 16,
+  "backlinks": "63",
+  "referring_domains": "48",
   "google_index": "0",
   "issues": {
     "broken_4xx": {
@@ -31,10 +31,10 @@
       "fix": "更新内部链接直接指向最终URL"
     },
     "duplicate_titles": {
-      "count": 12,
+      "count": 13,
       "label": "重复页面标题",
       "severity": "高",
-      "description": "12个页面标题重复（EN/ZH版本相同）",
+      "description": "13个页面标题重复（EN/ZH版本相同）",
       "effort": "2小时",
       "fix": "TranslatePress → 逐页翻译 meta title"
     },
@@ -63,18 +63,18 @@
       "fix": "将 Title 改为包含关键词的完整句子，H1 保持简短"
     },
     "slow_pages": {
-      "count": 106,
+      "count": 116,
       "label": "页面加载速度慢",
       "severity": "高",
-      "description": "106个页面加载速度慢",
+      "description": "116个页面加载速度慢",
       "effort": "持续",
       "fix": "Elementor → Improved Asset Loading；Breeze → JS defer + CSS 合并"
     },
     "internal_links_3xx": {
-      "count": 128,
+      "count": 133,
       "label": "内部链接指向重定向页",
       "severity": "中",
-      "description": "128个内部链接指向3XX重定向页面",
+      "description": "133个内部链接指向3XX重定向页面",
       "effort": "30分钟",
       "fix": "更新内部链接直接指向最终目标URL"
     },
