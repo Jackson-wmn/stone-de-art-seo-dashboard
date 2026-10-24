@@ -1,0 +1,421 @@
+{
+  "updated_at": "2026-10-24T04:28:11.976650Z",
+  "date_from": "2026-10-17",
+  "date_to": "2026-10-24",
+  "total_keywords": 108,
+  "avg_position": 14.5,
+  "top10_count": 51,
+  "movers_up": [
+    {
+      "keyword": "marble countertop",
+      "position": 26,
+      "position_7d_ago": 53,
+      "delta": 27,
+      "volume": 40,
+      "landing_page": "https://stonedeart.com.my/marble-malaysia-the-icon-of-luxury-interiors/"
+    },
+    {
+      "keyword": "marble near me",
+      "position": 19,
+      "position_7d_ago": 42,
+      "delta": 23,
+      "volume": 110,
+      "landing_page": "https://stonedeart.com.my/"
+    },
+    {
+      "keyword": "onyx",
+      "position": 9,
+      "position_7d_ago": 29,
+      "delta": 20,
+      "volume": 5400,
+      "landing_page": "https://stonedeart.com.my/what-is-onyx-what-you-need-to-know-before-using-it-in-malaysia/"
+    },
+    {
+      "keyword": "marble countertops",
+      "position": 50,
+      "position_7d_ago": 67,
+      "delta": 17,
+      "volume": 110,
+      "landing_page": "https://stonedeart.com.my/choosing-the-perfect-marble-table-top-for-your-space/"
+    },
+    {
+      "keyword": "stone company near me",
+      "position": 13,
+      "position_7d_ago": 28,
+      "delta": 15,
+      "volume": 10,
+      "landing_page": "https://stonedeart.com.my/"
+    },
+    {
+      "keyword": "natural stone suppliers",
+      "position": 1,
+      "position_7d_ago": 13,
+      "delta": 12,
+      "volume": 30,
+      "landing_page": "https://stonedeart.com.my/"
+    },
+    {
+      "keyword": "designer marble table",
+      "position": 4,
+      "position_7d_ago": 13,
+      "delta": 9,
+      "volume": 10,
+      "landing_page": "https://stonedeart.com.my/marble-dining-tables-in-malaysia-luxury-meets-function/"
+    },
+    {
+      "keyword": "marble on the wall",
+      "position": 6,
+      "position_7d_ago": 14,
+      "delta": 8,
+      "volume": 320,
+      "landing_page": "https://stonedeart.com.my/marble-feature-walls-in-malaysia-design-benefits-and-care-tips/"
+    }
+  ],
+  "movers_down": [
+    {
+      "keyword": "natural stone floor",
+      "position": 43,
+      "position_7d_ago": 20,
+      "delta": -23,
+      "volume": 50,
+      "landing_page": "https://stonedeart.com.my/best-stone-for-floors-that-need-to-lash/"
+    },
+    {
+      "keyword": "granite and marble",
+      "position": 45,
+      "position_7d_ago": 32,
+      "delta": -13,
+      "volume": 50,
+      "landing_page": "https://stonedeart.com.my/marble-vs-granite-which-one-is-better-for-your-kitchen/"
+    },
+    {
+      "keyword": "stone table",
+      "position": 15,
+      "position_7d_ago": 8,
+      "delta": -7,
+      "volume": 110,
+      "landing_page": "https://stonedeart.com.my/living-with-a-marble-table-in-malaysia-beauty/"
+    },
+    {
+      "keyword": "granite countertop",
+      "position": 22,
+      "position_7d_ago": 18,
+      "delta": -4,
+      "volume": 50,
+      "landing_page": "https://stonedeart.com.my/granite-strength-elegance-malaysia/"
+    },
+    {
+      "keyword": "stone floors",
+      "position": 32,
+      "position_7d_ago": 28,
+      "delta": -4,
+      "volume": 320,
+      "landing_page": "https://stonedeart.com.my/best-stone-for-floors-that-need-to-lash/"
+    },
+    {
+      "keyword": "stone for floor",
+      "position": 29,
+      "position_7d_ago": 25,
+      "delta": -4,
+      "volume": 320,
+      "landing_page": "https://stonedeart.com.my/best-stone-for-floors-that-need-to-lash/"
+    },
+    {
+      "keyword": "stone shop near me",
+      "position": 22,
+      "position_7d_ago": 18,
+      "delta": -4,
+      "volume": 70,
+      "landing_page": "https://stonedeart.com.my/"
+    },
+    {
+      "keyword": "granite kitchen top",
+      "position": 10,
+      "position_7d_ago": 7,
+      "delta": -3,
+      "volume": 110,
+      "landing_page": "https://stonedeart.com.my/granite-countertops-that-balance-durability-and-design/"
+    }
+  ],
+  "opportunities": [
+    {
+      "keyword": "stone",
+      "position": 20,
+      "position_7d_ago": 17,
+      "delta": -3,
+      "volume": 4400,
+      "landing_page": "https://stonedeart.com.my/"
+    },
+    {
+      "keyword": "countertops",
+      "position": 11,
+      "position_7d_ago": 11,
+      "delta": 0,
+      "volume": 1300,
+      "landing_page": "https://stonedeart.com.my/granite-countertops-malaysia-are-they-still-worth？/"
+    },
+    {
+      "keyword": "marble stone",
+      "position": 16,
+      "position_7d_ago": 17,
+      "delta": 1,
+      "volume": 590,
+      "landing_page": "https://stonedeart.com.my/"
+    },
+    {
+      "keyword": "natural stone",
+      "position": 14,
+      "position_7d_ago": 14,
+      "delta": 0,
+      "volume": 320,
+      "landing_page": "https://stonedeart.com.my/the-ultimate-luxury-stone-guide-in-malaysia-2025/"
+    },
+    {
+      "keyword": "malaysia marble dining table",
+      "position": 15,
+      "position_7d_ago": 14,
+      "delta": -1,
+      "volume": 320,
+      "landing_page": "https://stonedeart.com.my/marble-dining-tables-in-malaysia-luxury-meets-function/"
+    },
+    {
+      "keyword": "stone flooring",
+      "position": 30,
+      "position_7d_ago": 30,
+      "delta": 0,
+      "volume": 320,
+      "landing_page": "https://stonedeart.com.my/best-stone-for-floors-that-need-to-lash/"
+    },
+    {
+      "keyword": "marble wall",
+      "position": 11,
+      "position_7d_ago": 11,
+      "delta": 0,
+      "volume": 320,
+      "landing_page": "https://stonedeart.com.my/marble-feature-walls-in-malaysia-design-benefits-and-care-tips/"
+    },
+    {
+      "keyword": "stone for floor",
+      "position": 29,
+      "position_7d_ago": 25,
+      "delta": -4,
+      "volume": 320,
+      "landing_page": "https://stonedeart.com.my/best-stone-for-floors-that-need-to-lash/"
+    }
+  ],
+  "selected": {
+    "total": 26,
+    "top10_count": 14,
+    "avg_position": 15.7,
+    "keywords": [
+      {
+        "keyword": "quartzite",
+        "position": 2,
+        "position_7d_ago": 2,
+        "delta": 0,
+        "volume": 390,
+        "landing_page": "https://stonedeart.com.my/why-quartzite-is-gaining-popularity-in-malaysia/"
+      },
+      {
+        "keyword": "marble flooring malaysia",
+        "position": 3,
+        "position_7d_ago": 3,
+        "delta": 0,
+        "volume": 70,
+        "landing_page": "https://stonedeart.com.my/marble-flooring-in-malaysia-pros-cons-care-tips/"
+      },
+      {
+        "keyword": "marble flooring",
+        "position": 3,
+        "position_7d_ago": 3,
+        "delta": 0,
+        "volume": 40,
+        "landing_page": "https://stonedeart.com.my/marble-flooring-in-malaysia-pros-cons-care-tips/"
+      },
+      {
+        "keyword": "marble featured wall",
+        "position": 3,
+        "position_7d_ago": 3,
+        "delta": 0,
+        "volume": 0,
+        "landing_page": "https://stonedeart.com.my/marble-feature-walls-in-malaysia-design-benefits-and-care-tips/"
+      },
+      {
+        "keyword": "Granite Top",
+        "position": 5,
+        "position_7d_ago": 5,
+        "delta": 0,
+        "volume": 70,
+        "landing_page": "https://stonedeart.com.my/granite-countertops-that-balance-durability-and-design/"
+      },
+      {
+        "keyword": "granite countertops",
+        "position": 6,
+        "position_7d_ago": 4,
+        "delta": -2,
+        "volume": 140,
+        "landing_page": "https://stonedeart.com.my/granite-countertops-that-balance-durability-and-design/"
+      },
+      {
+        "keyword": "granite table top",
+        "position": 6,
+        "position_7d_ago": 6,
+        "delta": 0,
+        "volume": 320,
+        "landing_page": "https://stonedeart.com.my/granite-countertops-that-balance-durability-and-design/"
+      },
+      {
+        "keyword": "granite malaysia",
+        "position": 7,
+        "position_7d_ago": 7,
+        "delta": 0,
+        "volume": 140,
+        "landing_page": "https://stonedeart.com.my/granite-countertops-malaysia-are-they-still-worth？/"
+      },
+      {
+        "keyword": "marble dining table",
+        "position": 7,
+        "position_7d_ago": 8,
+        "delta": 1,
+        "volume": 1000,
+        "landing_page": "https://stonedeart.com.my/marble-dining-tables-in-malaysia-luxury-meets-function/"
+      },
+      {
+        "keyword": "granite flooring",
+        "position": 8,
+        "position_7d_ago": 8,
+        "delta": 0,
+        "volume": 260,
+        "landing_page": "https://stonedeart.com.my/why-granite-flooring-adds-weight-and-warmth-to-modern-interiors/"
+      },
+      {
+        "keyword": "marble dining table malaysia",
+        "position": 8,
+        "position_7d_ago": 8,
+        "delta": 0,
+        "volume": 320,
+        "landing_page": "https://stonedeart.com.my/marble-dining-tables-in-malaysia-luxury-meets-function/"
+      },
+      {
+        "keyword": "marble walls",
+        "position": 8,
+        "position_7d_ago": 9,
+        "delta": 1,
+        "volume": 320,
+        "landing_page": "https://stonedeart.com.my/marble-feature-walls-in-malaysia-design-benefits-and-care-tips/"
+      },
+      {
+        "keyword": "granite kitchen top",
+        "position": 10,
+        "position_7d_ago": 7,
+        "delta": -3,
+        "volume": 110,
+        "landing_page": "https://stonedeart.com.my/granite-countertops-that-balance-durability-and-design/"
+      },
+      {
+        "keyword": "marble table top",
+        "position": 10,
+        "position_7d_ago": 14,
+        "delta": 4,
+        "volume": 480,
+        "landing_page": "https://stonedeart.com.my/choosing-the-perfect-marble-table-top-for-your-space/"
+      },
+      {
+        "keyword": "marble toilet",
+        "position": 11,
+        "position_7d_ago": 8,
+        "delta": -3,
+        "volume": 70,
+        "landing_page": "https://stonedeart.com.my/marble-bathroom-design-ideas-luxury-in-every-details/"
+      },
+      {
+        "keyword": "marble bathroom",
+        "position": 13,
+        "position_7d_ago": 14,
+        "delta": 1,
+        "volume": 50,
+        "landing_page": "https://stonedeart.com.my/marble-bathroom-design-ideas-luxury-in-every-details/"
+      },
+      {
+        "keyword": "natural stone",
+        "position": 14,
+        "position_7d_ago": 14,
+        "delta": 0,
+        "volume": 320,
+        "landing_page": "https://stonedeart.com.my/the-ultimate-luxury-stone-guide-in-malaysia-2025/"
+      },
+      {
+        "keyword": "marble design",
+        "position": 15,
+        "position_7d_ago": 16,
+        "delta": 1,
+        "volume": 210,
+        "landing_page": "https://stonedeart.com.my/marble-feature-walls-in-malaysia-design-benefits-and-care-tips/"
+      },
+      {
+        "keyword": "marble stone",
+        "position": 16,
+        "position_7d_ago": 17,
+        "delta": 1,
+        "volume": 590,
+        "landing_page": "https://stonedeart.com.my/"
+      },
+      {
+        "keyword": "travertine stone",
+        "position": 16,
+        "position_7d_ago": 14,
+        "delta": -2,
+        "volume": 170,
+        "landing_page": "https://stonedeart.com.my/travertine-in-malaysia-the-designers-secret-for-timeless-interiors-2/"
+      },
+      {
+        "keyword": "marble near me",
+        "position": 19,
+        "position_7d_ago": 42,
+        "delta": 23,
+        "volume": 110,
+        "landing_page": "https://stonedeart.com.my/"
+      },
+      {
+        "keyword": "stone flooring",
+        "position": 30,
+        "position_7d_ago": 30,
+        "delta": 0,
+        "volume": 320,
+        "landing_page": "https://stonedeart.com.my/best-stone-for-floors-that-need-to-lash/"
+      },
+      {
+        "keyword": "marble supplier",
+        "position": 32,
+        "position_7d_ago": 30,
+        "delta": -2,
+        "volume": 110,
+        "landing_page": "https://stonedeart.com.my/"
+      },
+      {
+        "keyword": "table granite",
+        "position": 38,
+        "position_7d_ago": 37,
+        "delta": -1,
+        "volume": 210,
+        "landing_page": "https://stonedeart.com.my/marble-dining-tables-in-malaysia-luxury-meets-function/"
+      },
+      {
+        "keyword": "marble countertops",
+        "position": 50,
+        "position_7d_ago": 67,
+        "delta": 17,
+        "volume": 110,
+        "landing_page": "https://stonedeart.com.my/choosing-the-perfect-marble-table-top-for-your-space/"
+      },
+      {
+        "keyword": "natural stone tiles",
+        "position": 69,
+        "position_7d_ago": 70,
+        "delta": 1,
+        "volume": 140,
+        "landing_page": "https://stonedeart.com.my/"
+      }
+    ]
+  }
+}
