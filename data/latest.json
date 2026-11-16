@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T07:56:05.974049Z",
+  "generated_at": "2026-11-16T07:57:33.722787Z",
   "site": "https://stonedeart.com.my",
   "period_days": 90,
   "scores": {
@@ -13,115 +13,122 @@
     "images": 75
   },
   "gsc": {
-    "total_clicks": 704,
-    "total_impressions": 46930,
-    "avg_ctr": 1.5,
-    "avg_position": 12.8,
+    "total_clicks": 694,
+    "total_impressions": 46860,
+    "avg_ctr": 1.48,
+    "avg_position": 12.3,
     "top_queries": [
       {
         "query": "stone de art",
-        "clicks": 255,
-        "impressions": 833,
-        "ctr": 30.61,
-        "position": 1.4
+        "clicks": 257,
+        "impressions": 857,
+        "ctr": 29.99,
+        "position": 1.6
       },
       {
         "query": "stonedeart",
-        "clicks": 73,
-        "impressions": 168,
-        "ctr": 43.45,
-        "position": 3.1
+        "clicks": 66,
+        "impressions": 160,
+        "ctr": 41.25,
+        "position": 3.2
       },
       {
         "query": "stone de art marble & granite sdn bhd",
-        "clicks": 23,
+        "clicks": 22,
         "impressions": 173,
-        "ctr": 13.29,
-        "position": 2.4
+        "ctr": 12.72,
+        "position": 2.5
       },
       {
         "query": "marble dining table",
         "clicks": 11,
-        "impressions": 716,
-        "ctr": 1.54,
-        "position": 9.2
+        "impressions": 743,
+        "ctr": 1.48,
+        "position": 9.0
+      },
+      {
+        "query": "floor marble tiles",
+        "clicks": 8,
+        "impressions": 51,
+        "ctr": 15.69,
+        "position": 6.0
+      },
+      {
+        "query": "marble floor",
+        "clicks": 8,
+        "impressions": 1244,
+        "ctr": 0.64,
+        "position": 2.7
+      },
+      {
+        "query": "marble dining table malaysia",
+        "clicks": 5,
+        "impressions": 651,
+        "ctr": 0.77,
+        "position": 7.5
       },
       {
         "query": "quartzite",
         "clicks": 5,
-        "impressions": 625,
-        "ctr": 0.8,
-        "position": 4.2
-      },
-      {
-        "query": "floor marble tiles",
-        "clicks": 4,
-        "impressions": 42,
-        "ctr": 9.52,
-        "position": 6.1
-      },
-      {
-        "query": "marble dining table malaysia",
-        "clicks": 4,
-        "impressions": 644,
-        "ctr": 0.62,
-        "position": 8.2
-      },
-      {
-        "query": "marble floor",
-        "clicks": 4,
-        "impressions": 1172,
-        "ctr": 0.34,
-        "position": 2.2
+        "impressions": 614,
+        "ctr": 0.81,
+        "position": 4.1
       },
       {
         "query": "stone art",
         "clicks": 3,
-        "impressions": 430,
-        "ctr": 0.7,
-        "position": 12.9
+        "impressions": 432,
+        "ctr": 0.69,
+        "position": 12.8
       },
       {
         "query": "luxury dining table",
         "clicks": 2,
         "impressions": 413,
         "ctr": 0.48,
-        "position": 8.6
+        "position": 8.0
+      },
+      {
+        "query": "marble",
+        "clicks": 2,
+        "impressions": 685,
+        "ctr": 0.29,
+        "position": 9.3
+      },
+      {
+        "query": "marble flooring malaysia",
+        "clicks": 2,
+        "impressions": 219,
+        "ctr": 0.91,
+        "position": 6.2
       },
       {
         "query": "marble malaysia",
         "clicks": 2,
-        "impressions": 222,
-        "ctr": 0.9,
-        "position": 9.1
+        "impressions": 231,
+        "ctr": 0.87,
+        "position": 8.9
       },
       {
         "query": "onxy stone",
         "clicks": 2,
-        "impressions": 20,
-        "ctr": 10.0,
-        "position": 6.6
+        "impressions": 21,
+        "ctr": 9.52,
+        "position": 6.8
       },
       {
         "query": "onyx stone",
         "clicks": 2,
-        "impressions": 613,
-        "ctr": 0.33,
-        "position": 7.3
-      },
-      {
-        "query": "stone",
-        "clicks": 2,
-        "impressions": 215,
-        "ctr": 0.93,
-        "position": 14.5
+        "impressions": 622,
+        "ctr": 0.32,
+        "position": 7.4
       },
       {
         "query": "stone carving",
         "clicks": 2,
-        "impressions": 38,
-        "ctr": 5.26,
-        "position": 11.9
+        "impressions": 45,
+        "ctr": 4.44,
+        "position": 11.1
       },
       {
         "query": "stone selection",
@@ -133,9 +140,9 @@
       {
         "query": "table top granite design",
         "clicks": 2,
-        "impressions": 11,
-        "ctr": 18.18,
-        "position": 2.7
+        "impressions": 12,
+        "ctr": 16.67,
+        "position": 2.6
       },
       {
         "query": "balakong",
@@ -150,237 +157,230 @@
         "impressions": 3,
         "ctr": 33.33,
         "position": 2.7
-      },
-      {
-        "query": "buy marble table",
-        "clicks": 1,
-        "impressions": 1,
-        "ctr": 100,
-        "position": 30
       }
     ],
     "top_pages": [
       {
         "page": "/",
-        "clicks": 440,
-        "impressions": 11385,
-        "position": 15.5
+        "clicks": 427,
+        "impressions": 11111,
+        "position": 15.1
       },
       {
         "page": "/marble-dining-tables-in-malaysia-luxury-meets-function/",
-        "clicks": 33,
-        "impressions": 5225,
-        "position": 14.6
-      },
-      {
-        "page": "/collection/",
-        "clicks": 26,
-        "impressions": 1857,
-        "position": 10.0
+        "clicks": 34,
+        "impressions": 5312,
+        "position": 13.5
       },
       {
         "page": "/marble-flooring-in-malaysia-pros-cons-care-tips/",
-        "clicks": 19,
-        "impressions": 4883,
+        "clicks": 30,
+        "impressions": 5067,
         "position": 6.6
       },
       {
-        "page": "/why-quartzite-is-gaining-popularity-in-malaysia/",
-        "clicks": 17,
-        "impressions": 1407,
-        "position": 6.3
+        "page": "/collection/",
+        "clicks": 28,
+        "impressions": 1803,
+        "position": 9.6
       },
       {
         "page": "/our-story-w/",
         "clicks": 15,
-        "impressions": 697,
-        "position": 16.5
+        "impressions": 622,
+        "position": 17.9
+      },
+      {
+        "page": "/why-quartzite-is-gaining-popularity-in-malaysia/",
+        "clicks": 15,
+        "impressions": 1355,
+        "position": 6.1
       },
       {
         "page": "/what-is-onyx-what-you-need-to-know-before-using-it-in-malaysia/",
-        "clicks": 15,
-        "impressions": 3508,
-        "position": 8.1
-      },
-      {
-        "page": "/granite-countertops-malaysia-are-they-still-worth%EF%BC%9F/",
-        "clicks": 10,
-        "impressions": 4727,
-        "position": 19.2
-      },
-      {
-        "page": "/marble-feature-walls-in-malaysia-design-benefits-and-care-tips/",
-        "clicks": 10,
-        "impressions": 1466,
-        "position": 12.2
+        "clicks": 14,
+        "impressions": 3525,
+        "position": 7.9
       },
       {
         "page": "/naturalstonesmalaysia/",
         "clicks": 10,
-        "impressions": 1148,
-        "position": 14.4
+        "impressions": 1289,
+        "position": 13.9
+      },
+      {
+        "page": "/granite-countertops-malaysia-are-they-still-worth%EF%BC%9F/",
+        "clicks": 9,
+        "impressions": 4709,
+        "position": 18.8
+      },
+      {
+        "page": "/marble-feature-walls-in-malaysia-design-benefits-and-care-tips/",
+        "clicks": 9,
+        "impressions": 1382,
+        "position": 12.3
       }
     ],
     "countries": [
       {
         "country": "MYS",
-        "clicks": 650
+        "clicks": 640
       },
       {
         "country": "IND",
-        "clicks": 12
+        "clicks": 10
       },
       {
         "country": "SGP",
-        "clicks": 7
+        "clicks": 8
       },
       {
         "country": "USA",
-        "clicks": 7
+        "clicks": 6
       },
       {
-        "country": "AUS",
-        "clicks": 3
+        "country": "CHN",
+        "clicks": 4
       }
     ],
     "devices": [
       {
         "device": "DESKTOP",
-        "clicks": 421,
-        "impressions": 28427
+        "clicks": 399,
+        "impressions": 28064
       },
       {
         "device": "MOBILE",
-        "clicks": 278,
-        "impressions": 18135
+        "clicks": 290,
+        "impressions": 18419
       },
       {
         "device": "TABLET",
         "clicks": 5,
-        "impressions": 368
+        "impressions": 377
       }
     ]
   },
   "ga4": {
-    "total_sessions": 10149,
+    "total_sessions": 10088,
     "channels": [
       {
         "channel": "Paid Search",
-        "sessions": 5647,
-        "users": 4649,
-        "bounce": 30.9,
-        "duration": 139
+        "sessions": 5585,
+        "users": 4660,
+        "bounce": 30.8,
+        "duration": 140
       },
       {
         "channel": "Organic Search",
-        "sessions": 2535,
-        "users": 1186,
-        "bounce": 52.6,
-        "duration": 281
+        "sessions": 2467,
+        "users": 1177,
+        "bounce": 52.9,
+        "duration": 267
       },
       {
         "channel": "Direct",
-        "sessions": 1370,
-        "users": 1024,
-        "bounce": 70.4,
-        "duration": 79
+        "sessions": 1431,
+        "users": 1069,
+        "bounce": 71.1,
+        "duration": 75
       },
       {
         "channel": "Organic Social",
-        "sessions": 377,
-        "users": 301,
+        "sessions": 372,
+        "users": 295,
         "bounce": 37.1,
-        "duration": 147
+        "duration": 144
       },
       {
         "channel": "AI Assistant",
-        "sessions": 68,
-        "users": 58,
-        "bounce": 67.6,
-        "duration": 94
-      },
-      {
-        "channel": "Unassigned",
-        "sessions": 53,
-        "users": 48,
-        "bounce": 98.1,
-        "duration": 214
+        "sessions": 79,
+        "users": 69,
+        "bounce": 70.9,
+        "duration": 99
       },
       {
         "channel": "Cross-network",
-        "sessions": 52,
-        "users": 52,
-        "bounce": 9.6,
-        "duration": 265
+        "sessions": 56,
+        "users": 56,
+        "bounce": 8.9,
+        "duration": 284
+      },
+      {
+        "channel": "Unassigned",
+        "sessions": 51,
+        "users": 46,
+        "bounce": 100.0,
+        "duration": 191
       },
       {
         "channel": "Referral",
         "sessions": 47,
         "users": 28,
-        "bounce": 48.9,
-        "duration": 181
+        "bounce": 53.2,
+        "duration": 155
       }
     ],
     "top_pages": [
       {
         "page": "/",
-        "sessions": 5690,
-        "bounce": 30.0,
-        "duration": 81
+        "sessions": 5567,
+        "bounce": 29.8,
+        "duration": 83
       },
       {
         "page": "/collection/",
-        "sessions": 1772,
-        "bounce": 9.4,
-        "duration": 61
+        "sessions": 1756,
+        "bounce": 9.2,
+        "duration": 58
       },
       {
         "page": "/marble/",
-        "sessions": 1555,
-        "bounce": 26.0,
-        "duration": 229
+        "sessions": 1551,
+        "bounce": 26.1,
+        "duration": 230
       },
       {
         "page": "/quartzite/",
-        "sessions": 1008,
-        "bounce": 22.0,
+        "sessions": 1010,
+        "bounce": 22.1,
         "duration": 110
       },
       {
         "page": "/kitchen/",
-        "sessions": 827,
-        "bounce": 20.7,
-        "duration": 76
+        "sessions": 823,
+        "bounce": 20.5,
+        "duration": 74
       },
       {
         "page": "/granite/",
-        "sessions": 780,
-        "bounce": 19.6,
-        "duration": 77
+        "sessions": 784,
+        "bounce": 19.4,
+        "duration": 74
       },
       {
         "page": "/gallery/",
-        "sessions": 685,
-        "bounce": 15.2,
-        "duration": 131
+        "sessions": 703,
+        "bounce": 15.6,
+        "duration": 66
       },
       {
         "page": "/travertine/",
-        "sessions": 618,
-        "bounce": 25.6,
-        "duration": 72
+        "sessions": 603,
+        "bounce": 24.7,
+        "duration": 66
       },
       {
         "page": "/furniture/",
-        "sessions": 576,
-        "bounce": 19.6,
-        "duration": 107
+        "sessions": 577,
+        "bounce": 20.5,
+        "duration": 103
       },
       {
         "page": "/contact-us/",
-        "sessions": 529,
-        "bounce": 13.4,
-        "duration": 82
+        "sessions": 527,
+        "bounce": 13.5,
+        "duration": 80
       }
     ]
   },
